@@ -50,7 +50,7 @@ body{
 
 
 .button{
-    transition: width ;
+    
    
     margin-top: 20px;
     text-decoration: none;
@@ -67,7 +67,7 @@ body{
 .button:hover{
     color: rgb(0, 0, 0);
     padding: 7px 30px;
-    transition: 1s;
+    transition: 1.3s;
    
    
     
