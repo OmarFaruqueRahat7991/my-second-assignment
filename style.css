@@ -264,8 +264,10 @@ hr{
         text-align: center;
     }
     .header-image{
-        margin-left: 40px;
+        padding-left: 0;
+        margin-left: 20px;
         margin-bottom: -16.5px;
+        margin-top: 10px;
         
     }
     .second-section-links{
@@ -337,9 +339,11 @@ hr{
         white-space:nowrap;
     }
     .header-image{
-        margin-left: 60px;
+        margin-left: 50px;
         margin-top: 20px;
     }
+   
+    
     .second-section-links{
         margin-left: 10px;
         width: 300px;
